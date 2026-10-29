@@ -41,5 +41,4 @@ Currently open to **internship and entry-level opportunities** in:
 
 ## Contact
 
-- GitHub: [github.com/braundm](https://github.com/braundm)
 - Email: dominik.mb@protonmail.com
