@@ -12,6 +12,11 @@ Market-risk platform for portfolio analysis with **Value at Risk (VaR), Expected
 
 Built with Python, FastAPI, PostgreSQL and React, with a focus on reproducible calculations, data lineage and risk-model validation.
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/braundm/braundm/main/QuantOps-showcase.gif">
+  <img alt="QuantOps demo" width="800">
+</picture>
+
 ### [OHLCV ML Pipeline](https://github.com/braundm/ohlcv-ml-pipeline)
 
 Time-series machine learning pipeline for financial market data with **leakage-safe validation, reproducible experiments and backtesting**.
@@ -42,3 +47,4 @@ Currently open to **internship and entry-level opportunities** in:
 ## Contact
 
 - Email: dominik.mb@protonmail.com
+
